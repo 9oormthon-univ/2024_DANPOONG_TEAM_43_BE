@@ -1,3 +1,11 @@
+## Developers
+
+| PM | PD | FE | FE | BE | BE |
+| --- | --- | --- | --- | --- | --- |
+| 경기대학교 | 경기대학교 | 성신여자대학교 | 한양대학교 에리카 | 덕성여자대학교 | 덕성여자대학교 |
+| 박성민 | 송연우 | 강신영 | 정지오 | 김은서 | 이규민 |
+| [@daram62](https://github.com/daram62) | [@supreme1mode](https://avatars.githubusercontent.com/u/140219289?v=4) | [@sinyoung6491](https://github.com/sinyoung6491) | [@jiohjung98](https://avatars.githubusercontent.com/u/104253583?v=4) | [@7beunseo](https://avatars.githubusercontent.com/u/128278212?v=4) | [@20210815](https://avatars.githubusercontent.com/u/90364652?v=4) |
+
 ![2153321](https://github.com/user-attachments/assets/e172d752-6e22-4806-8902-1e7182391fb5)
 ![2135213123](https://github.com/user-attachments/assets/3ab48f85-c5aa-49c3-8b97-6bdbd13d6539)
 ![2311452](https://github.com/user-attachments/assets/26f5b180-2e2a-4ffc-a6c2-8ab666af3f51)
