@@ -1,1 +1,7 @@
-리드미 생성
+![2153321](https://github.com/user-attachments/assets/e172d752-6e22-4806-8902-1e7182391fb5)
+![2135213123](https://github.com/user-attachments/assets/3ab48f85-c5aa-49c3-8b97-6bdbd13d6539)
+![2311452](https://github.com/user-attachments/assets/26f5b180-2e2a-4ffc-a6c2-8ab666af3f51)
+![212315234](https://github.com/user-attachments/assets/eba11de5-e2b8-4f76-9f17-e2c3a6252bfc)
+![2152321228](https://github.com/user-attachments/assets/80c723aa-cedb-4c89-bf72-0e389353e805)
+![42314231](https://github.com/user-attachments/assets/714aaba7-9d43-4325-9211-d9d03be2d54d)
+![2152323110](https://github.com/user-attachments/assets/321c49b6-ece8-4828-9710-ba9591b3bc8e)
